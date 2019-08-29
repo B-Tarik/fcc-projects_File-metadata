@@ -4,7 +4,7 @@
 it's a freecodecamp project in the "Apis and Microservices Projects" module, you have to build an API that will receive a File and return a json response containing a informations about that file.
 
 bonus*: 
-- Front-end using React
+- Front-end using React, Sass, Responsive Design
 
 ### Tools used
 
